@@ -1,0 +1,1 @@
+React native kullanarak geliştirdiğim mobil uygulamamda film arayabilir ve detaylarına ulaşabilirsiniz. İstediğimiz filmin verisini inceleyebilirsiniz. Gerekli filmlerin ve oyuncuların detayları için The Movie Database API kullandım.
